@@ -1,5 +1,7 @@
 @import url("reset.css");
 @import url("base.css");
+@import url("layout.css");
+@import url("theme.css");
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
@@ -12,14 +14,6 @@
 
 
 /* Basic */
-
-	html {
-		box-sizing: border-box;
-	}
-
-	*, *:before, *:after {
-		box-sizing: inherit;
-	}
 
 	body {
 		background: #fff;
