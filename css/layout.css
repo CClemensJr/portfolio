@@ -1609,3 +1609,21 @@
         margin: 0 auto;
         width: auto;
       }
+
+/* List */
+
+  ul {
+    padding-left: 1em;
+  }
+
+    ul li {
+      padding-left: 0.5em;
+    }
+
+  ol {
+    padding-left: 1.25em;
+  }
+
+    ol li {
+      padding-left: 0.25em;
+    }
