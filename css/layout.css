@@ -1632,9 +1632,7 @@
 
 /* Icons */
 
-  /* ul.icons {
-    cursor: default;
-    list-style: none;
+  ul.icons {
     padding-left: 0;
   }
 
@@ -1649,5 +1647,4 @@
       height: 2em;
       line-height: 2em;
       text-align: center;
-      border: 0;
-    } */
+    }
