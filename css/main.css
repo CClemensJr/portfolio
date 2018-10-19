@@ -13,37 +13,18 @@
 
 
 
-/* Basic */
 
 
 
 
-	
 
 	
 
 	
 
-	sub {
-		position: relative;
-		top: 0.5em;
-	}
-
-	sup {
-		position: relative;
-		top: -0.5em;
-	}
-
 	
 
-	p, ul, ol, dl, table {
-		margin-bottom: 2em;
-	}
-
-	br.clear {
-		clear: both;
-	}
-
+	
 /* Container */
 
 	.container {
