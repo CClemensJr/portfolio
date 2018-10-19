@@ -114,3 +114,16 @@
   ol {
     list-style: decimal;
   }
+
+
+
+/* Icons */
+
+  ul.icons {
+    cursor: default;
+    list-style: none;
+  }
+
+    ul.icons a {
+      border: 0;
+    }
