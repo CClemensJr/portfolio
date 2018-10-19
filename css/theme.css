@@ -93,12 +93,24 @@
     font-style: italic;
   }
 
+
 /* Image */
 
-.image {
-  border: 0;
-}
+  .image {
+    border: 0;
+  }
 
-  .image.avatar48 {
-    background: #f00;
+    .image.avatar48 {
+      background: #f00;
+    }
+
+
+/* List */
+
+  ul {
+    list-style: disc;
+  }
+
+  ol {
+    list-style: decimal;
   }
