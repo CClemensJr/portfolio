@@ -1,3 +1,7 @@
 body {
   line-height: 1.75em;
 }
+
+input, textarea, select {
+  line-height: 1.75em;
+}
