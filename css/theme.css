@@ -73,8 +73,21 @@ h1, h2, h3, h4, h5, h6 {
 			border-bottom-color: rgba(255, 255, 255, 0);
     }
   
-  sub {
-    font-size: 0.8em;
-  }
+sub {
+  font-size: 0.8em;
+}
 
-  
+sup {
+  font-size: 0.8em;
+}
+
+hr {
+  border: 0;
+  border-top: solid 1px #ddd;
+}
+
+blockquote {
+  border-left: solid 0.5em #ddd;
+  padding: 1em 0 1em 2em;
+  font-style: italic;
+}
