@@ -3,11 +3,11 @@
 @import url("base.css");
 @import url("layout.css");
 @import url("theme.css");
-@import url("widescreen.css");
-@import url("normalscreen.css");
-@import url("smallscreen.css");
-@import url("tablet.css");
-@import url("mobile.css");
+@import url("device_themes/widescreen.css");
+@import url("device_themes/normalscreen.css");
+@import url("device_themes/smallscreen.css");
+@import url("device_themes/tablet.css");
+@import url("device_themes/mobile.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 
