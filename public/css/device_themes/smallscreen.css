@@ -1,5 +1,5 @@
-@media screen and (min-width: 961px) and (max-width: 1320px) {
-
+@media screen and (min-width: 960px) and (max-width: 1320px) {
+ 
   /* Basic */
 
     body, input, textarea, select {
@@ -62,3 +62,20 @@
     }
 
 }
+
+/* #top.one.dark.cover {
+  background-color: #2A4747
+}
+
+#top.one.dark.cover .button {
+  background-color: #FFED66;
+}
+
+
+#header {
+  background-color: #2A4747
+}
+
+.bottom {
+  background-color: #2A4747
+} */

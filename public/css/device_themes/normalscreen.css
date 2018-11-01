@@ -1,4 +1,20 @@
 @media screen and (min-width: 961px) and (max-width: 1620px) {
+  #top.one.dark.cover {
+    background-color: #00CECB;
+  }
+
+  #top.one.dark.cover .button {
+    background-color: #FFED66;
+  }
+
+
+  #header {
+    background-color: #00CECB;
+  }
+
+  .bottom {
+    background-color: #FF5E5B;
+  }
 
   /* Main */
 

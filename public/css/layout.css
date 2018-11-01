@@ -30,6 +30,22 @@
     clear: both;
   }
 
+  #top h2 {
+    text-align: center;
+  }
+
+  #top p {
+    text-align: center;
+  }
+
+  #about p {
+    text-align: left;
+  }
+
+  #contact p {
+    text-align: left;
+  }
+
 
 /* Container */
 
@@ -45,21 +61,7 @@
       width: 1200px;
     }
 
-  }
 
-  @media screen and (min-width: 961px) and (max-width: 1620px) {
-
-    .container {
-      width: 960px;
-    }
-
-  }
-
-  @media screen and (min-width: 961px) and (max-width: 1320px) {
-
-    .container {
-      width: 100%;
-    }
 
   }
 
@@ -68,7 +70,6 @@
     .container {
       width: 100%;
     }
-
   }
 
   @media screen and (max-width: 736px) {

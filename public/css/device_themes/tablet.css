@@ -192,10 +192,10 @@
   /* Main */
 
     #main {
-      -moz-backface-visibility: hidden;
-      -webkit-backface-visibility: hidden;
-      -ms-backface-visibility: hidden;
-      backface-visibility: hidden;
+      -moz-backface-visibility: auto;
+      -webkit-backface-visibility: auto;
+      -ms-backface-visibility: auto;
+      backface-visibility: auto;
       -moz-transition: -moz-transform 0.5s ease;
       -webkit-transition: -webkit-transform 0.5s ease;
       -ms-transition: -ms-transform 0.5s ease;
@@ -211,5 +211,21 @@
       #main section.cover {
         padding: 4em 0;
       }
+}
 
+#top.one.dark.cover {
+  background-color: #48BF84;
+}
+
+#top.one.dark.cover .button {
+  background-color: #E0BAD7;
+}
+
+
+#header {
+  background-color: #2A4747;
+}
+
+.bottom {
+  background-color: #E0BAD7;
 }

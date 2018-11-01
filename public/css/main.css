@@ -1,14 +1,14 @@
 @import url("reset.css");
 @import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @import url("base.css");
 @import url("layout.css");
 @import url("theme.css");
-@import url("device_themes/widescreen.css");
-@import url("device_themes/normalscreen.css");
-@import url("device_themes/smallscreen.css");
+/* @import url("device_themes/mobile.css");
 @import url("device_themes/tablet.css");
-@import url("device_themes/mobile.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url("device_themes/smallscreen.css");
+@import url("device_themes/normalscreen.css");
+@import url("device_themes/widescreen.css"); */
 
 
 
